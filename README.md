@@ -11,16 +11,10 @@ Visual PDF form automation tool with drag-and-drop field mapping.
 - ⌨️ **Keyboard Controls** - Precise positioning with arrow keys
 - 🎭 **Live Preview** - See results before generating PDF
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Main Interface](screenshots/main-interface.png)
-*Main interface with PDF preview and field mapping*
-
-![Field Mapping](screenshots/field-mapping.png)
-*Drawing and positioning fields on PDF template*
-
-![Preview Mode](screenshots/preview-mode.png)
-*Live preview with text alignment options*
+![Demo](screenshots/Version%201.0.png)
+*Demo - Work in Progress*
 
 ## 🚀 Quick Start
 
