@@ -16,6 +16,9 @@ Visual PDF form automation tool with drag-and-drop field mapping.
 ![Demo](screenshots/Version%201.0.png)
 *Demo - Work in Progress*
 
+![Demo](screenshots/Version%201.1.png)
+*Demo - Work in Progress*
+
 ## Usage
 
 1. Load PDF template
